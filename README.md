@@ -1,4 +1,4 @@
-# machine-learning-iris-classification-algo
+# machine-learning-iris-classification
 This repository demonstrates a complete introductory machine learning project using Python. It covers the key stages from data loading to model deployment readiness:
 
 1. Downloading and Installing Python (SciPy stack)
